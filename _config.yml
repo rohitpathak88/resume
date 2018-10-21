@@ -7,7 +7,7 @@ safe: false
 
 ### site serving configuration ###
 exclude: [CNAME, README.md, .gitignore]
-permalink: / ## disables post output
+permalink: /:title ## disables post output
 timezone: null
 lsi: false
 markdown: kramdown
@@ -18,8 +18,8 @@ title:       "Rohit Pathak"
 keywords:    "resume rohit pathak,experienced ios developer,ios professional,mobile app development, ios blogger,"
 description: "6.5 years of iOS App development Industry Experience"
 source_link: "https://rohitpathak88.github.io/resume"
-favicon:     #put a path like: "img/favicon.ico"
-touch_icon:  #put a path like: "img/apple-touch-icon.png"
+favicon:     "img/favicon.ico"
+touch_icon:  "img/apple-touch-icon.png"
 google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable)
 
 
