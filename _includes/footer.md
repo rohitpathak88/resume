@@ -1,8 +1,7 @@
-
-
-Design by Tim O'Brien [t413.com](http://t413.com/)
+Copyright @ 2018
 &mdash;
-[SinglePaged theme](https://github.com/t413/SinglePaged)
+Design by Rohit Pathak
 &mdash;
-this site is [open source]({{ site.source_link }})
+[LinkedIn](https://www.linkedin.com/in/rohitpathak89/)
+
 
